@@ -1,10 +1,10 @@
 import image01 from '@/assets/images/01.png'
 import image02 from '@/assets/images/02.png'
 import image03 from '@/assets/images/03.jpg'
-import image04 from '@/assets/images/04.jpg'
-import image05 from '@/assets/images/05.jpg'
-import image06 from '@/assets/images/06.jpg'
-import image07 from '@/assets/images/07.jpg'
+import image04 from '@/assets/images/04.png'
+import image05 from '@/assets/images/05.png'
+import image06 from '@/assets/images/06.png'
+import image07 from '@/assets/images/07.png'
 import image08 from '@/assets/images/08.png'
 import image09 from '@/assets/images/09.jpg'
 import image10 from '@/assets/images/10.jpg'
@@ -32,23 +32,23 @@ const images = [   /* 이미지 경로를 리스트로 저장 */
   },{
     alt: 'image04',
     source: image04,
-    width: "1280",
-    height: "1920",
+    width: "853",
+    height: "1280",
   },{
     alt: 'image05',
     source: image05,
-    width: "1280",
-    height: "1920",
+    width: "853",
+    height: "1280",
   },{
     alt: 'image06',
     source: image06,
-    width: "1280",
-    height: "1920",
+    width: "854",
+    height: "1280",
   },{
     alt: 'image07',
     source: image07,
-    width: "1280",
-    height: "1920",
+    width: "854",
+    height: "1280",
   },{
     alt: 'image08',
     source: image08,
