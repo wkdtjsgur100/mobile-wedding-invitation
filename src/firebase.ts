@@ -14,7 +14,8 @@ const firebaseConfig = {
     storageBucket: "wedding-be-d70d6.appspot.com",
     messagingSenderId: "623953607664",
     appId: "1:623953607664:web:8c21c5a09807672aa1fb35",
-    measurementId: "G-4CJBTGSDLS"
+    measurementId: "G-4CJBTGSDLS",
+    databaseURL: "https://wedding-be-d70d6-default-rtdb.firebaseio.com/",
 };
 
 // Initialize Firebase
