@@ -14,10 +14,16 @@ const Invitation = () => {
       {/* TODO: 구글캘린더 추가하기 기능을 넣는다면 링크 수정 */}
       <RoundButton
         target="_blank"
-        href=""
+        href="https://adventure.lotteworld.com/wedding/location/contentsid/653/index.do"
         rel="noreferrer">
-        구글 캘린더 추가하기
+        오시는길
       </RoundButton>
+        <RoundButton
+            target="_blank"
+            href="https://github.com/wkdtjsgur100/mobile-wedding-invitation"
+            rel="noreferrer">
+            청첩장 제작에 기여하기 (github)
+        </RoundButton>
     </InvitationWrapper>
   );
 };

@@ -4,7 +4,7 @@
     "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
     "host": {
       "groom": {
-        "name": "선혁",
+        "name": "장선혁",
         "relation": "아들",
         "parents": [
           {
@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "2024년 12월 1일 (일) 12:00\n롯데월드 전통혼례"
+    "eventDetail": "2024년 12월 1일 (일) 12:00\n롯데월드 전통혼례장"
   },
   "hostInfo": [
     {
@@ -64,7 +64,7 @@
   ],
   "mapInfo": {
     "address1": "롯데월드 전통혼례장",
-    "address2": "서울 송파구 올림픽로 240 롯데월드\n02-411-3703",
+    "address2": "서울 송파구 올림픽로 240 롯데월드 전통혼례장\n02-411-3703",
     "naverMap": "https://map.naver.com/p/entry/place/13353304?c=15.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
     "lat": 37.54222,
@@ -73,11 +73,7 @@
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 2·8호선 잠실역 4번 출구 (도보 5분)\n\uD83D\uDC49\uD83C\uDFFB"
-    },
-    {
-      "title": "\uD83D\uDCCD 오시는 길 링크",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB https://adventure.lotteworld.com/wedding/location/contentsid/653/index.do"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 2·8호선 잠실역 4번 출구 (도보 5분)"
     },
     {
       "title": "\uD83D\uDCCD 주차 안내",
